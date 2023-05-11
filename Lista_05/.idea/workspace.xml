@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f375044-9ac6-4d85-83ee-cbd388d34d24" name="Changes" comment="" />
+    <list default="true" id="9f375044-9ac6-4d85-83ee-cbd388d34d24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lista_06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_07/Exercicio_01_Lista07/src/Fabrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_07/Exercicio_01_Lista07/src/OperadorDeCorte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_07/Exercicio_01_Lista07/src/OperadorDePrensa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_07/Exercicio_01_Lista07/src/OperadordeDobra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista_07/Exercicio_01_Lista07/src/Operario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +31,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Vinicius Alves/Desktop/Modulo02_Programacao_Orientada_Objetos/Lista_05"
+    "last_opened_file_path": "C:/Users/Vinicius Alves/Desktop/Modulo02_Programacao_Orientada_Objetos/Lista_06"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
